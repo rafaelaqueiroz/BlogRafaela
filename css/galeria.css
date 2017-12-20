@@ -3,7 +3,7 @@
 }
 
 
-	section { margin: 0; background: #CFCFCF; }
+	section { margin: 0; background: #ffffff; }
 	#galeria { 
 		padding: .5vw;
 		font-size: 0;
@@ -12,7 +12,7 @@
 	}
 	#galeria div { 
 		flex: auto; 
-		width: 200px; 
+		width: 400px; 
 		margin: .5vw; 
 	}
 	#galeria div img { 
@@ -32,7 +32,7 @@
 	padding-top:35px;
 	padding-bottom:35px;
 	box-shadow:0 4px 10px 0 rgba(0,0,0,0.50),0 4px 20px 0 rgba(0,0,0,0.50);
-	background-color:white;
+	background-color:#ffffff;
 }
 header.esquerda{
 	padding-left:20px;
