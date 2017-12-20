@@ -1,0 +1,110 @@
+*{	margin: 0;
+	padding: 0;
+}
+
+
+body,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+.menu, h1,botao {font-family: "Montserrat", sans-serif}
+
+body{
+	text-align:center;
+	
+}
+
+
+.titulos{
+	font-size:45px;
+}
+
+header{
+	float:left;
+	width:100%;
+	margin-top:65px;
+	padding-top:35px;
+	padding-bottom:35px;
+	box-shadow:0 4px 10px 0 rgba(0,0,0,0.50),0 4px 20px 0 rgba(0,0,0,0.50);
+	background-color:white;
+}
+header{
+	padding-left:20px;
+}
+.logo{
+	width:35%;
+}
+.cmd1{
+	width: 90%;
+}
+.article1{
+	background-color:white;
+	color:black;
+	float:left;
+	margin-top:60px;
+	padding-top:30px;
+	padding-left:15px;
+	padding-right:15px;
+	text-align:center;
+	width:31%;
+	height:AUTO;
+	line-height:2.5em;
+}
+.article2{
+	background-color:black;
+	color:white;
+	float:right;
+	margin-top:60px;
+	padding-top:30px;
+	padding-left:15px;
+	padding-right:15px;
+	text-align:center;
+	width:31%;
+	height:AUTO;
+	line-height:2.5em;
+}
+.article3{
+	background-color:#ff471a;
+	color:black;
+	float:right;
+	margin-top:60px;
+	padding-top:30px;
+	padding-left:15px;
+	padding-right:15px;
+	text-align:center;
+	width:31%;
+	height:AUTO;
+	line-height:2.5em;
+}
+
+footer{
+	padding-top:30px;
+	padding-bottom:30px;
+	text-align:center;	
+	background-color:#204060;
+	width:100%;
+	clear:both;	
+	text-decoration:none;
+	color:white;
+}
+
+.icone,.iconehover:hover{
+	overflow:hidden;
+	text-decoration:none;
+	width:auto;
+	float:center;
+	margin: 15px 15px;
+	color:white;
+	
+}
+
+
+.branco{
+	color:black!important;
+	background-color:white!important;
+}
+.hoverbranco:hover{
+	color:white!important;
+	background-color:black!important;
+}
+.preto,.pretohover:hover{
+	color:black!important;
+	background-color:#fff!important;
+}
